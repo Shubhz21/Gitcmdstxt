@@ -28,6 +28,8 @@ git log  --->to check previous commits
 
 git branch newbranchname --->to create new branch
 
+git checkout branchname/gitlogaddresscode
+
 git pull origin master             -->  (for getting git files into folder from github)
 
 
