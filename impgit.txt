@@ -9,7 +9,9 @@ git status                                |
                                           |(same)
 git add filename or foldername/         <--
                                           
-git commit -m "  "                      
+git commit -m "  "
+
+git push --->by default pushing to staged area branch                     
 
 git push origin -u master
 
@@ -25,6 +27,8 @@ git branch --delete branchname ----> to delete branch name
 git log  --->to check previous commits
 
 git branch newbranchname --->to create new branch
+
+git checkout branchname/gitlogaddresscode
 
 git pull origin master             -->  (for getting git files into folder from github)
 
