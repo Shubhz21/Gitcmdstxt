@@ -9,7 +9,9 @@ git status                                |
                                           |(same)
 git add filename or foldername/         <--
                                           
-git commit -m "  "                      
+git commit -m "  "
+
+git push                      
 
 git push origin -u master
 
