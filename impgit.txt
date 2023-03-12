@@ -11,7 +11,7 @@ git add filename or foldername/         <--
                                           
 git commit -m "  "
 
-git push                      
+git push --->by default pushing to staged area branch                     
 
 git push origin -u master
 
