@@ -15,6 +15,7 @@ git push
 
 git push origin -u master
 
+git push  -->br default push
 
 git remote set-url origin _______---->to change origin
 
@@ -28,7 +29,7 @@ git log  --->to check previous commits
 
 git branch newbranchname --->to create new branch
 
-git pull origin master             -->  (for getting git files into folder from github)
+git pull origin branchname            -->  (for getting git files into folder from github)
 
 
 
