@@ -22,7 +22,7 @@ git remote -v ----->to check origin
 
 git branch ---->to check branches list
 
-git branch --delete branchname ----> to delete branch name
+git branch -D branchname ----> to delete branch name
 
 git log  --->to check previous commits
 
