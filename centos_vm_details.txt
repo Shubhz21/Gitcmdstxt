@@ -1,0 +1,11 @@
+vm details-
+username-shubhamvm
+password-centos2024
+
+
+- rootpassword-Centos2024
+
+user details-
+
+username-sphunde
+password-Centos2024
